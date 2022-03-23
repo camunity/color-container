@@ -1,0 +1,21 @@
+.color-box {
+  height: 300px;
+  width: 300px;
+  background-color: gray;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+.blue {
+  background-color: blue;
+}
