@@ -2,7 +2,7 @@ import '../styles/ColorActions.css'
 
 const ColorActions = (props) => {
   let handleClick = (event) => {
-    console.log(event.target.value)
+    console.log(event, event.target.value)
     props.onColorClicked(event.target.value)
   }
 
